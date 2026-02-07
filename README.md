@@ -15,6 +15,9 @@ This repository is a registered module of the Vasquez Index. Stable references, 
 * **Infrastructure:** [scientific-infrastructure](https://github.com/inaciovasquez2020/scientific-infrastructure)
 
 ---
+## References
+- Unified framework context: https://inaciovasquez2020.github.io
+- Project index: https://inaciovasquez2020.github.io/vasquez-index/
 
 ## Technical Notes
 * **Integration:** This blockchain implementation is designed to interface with `urf-core` and associated data-logging modules.
